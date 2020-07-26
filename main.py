@@ -1,3 +1,8 @@
+"""
+Made By Rafli
+Please if u using this dont delete this credit
+"""
+
 import random as rd
 import os
 
